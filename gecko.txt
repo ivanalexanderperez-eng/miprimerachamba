@@ -1,1 +1,4 @@
 hola mundo 
+
+hobbie : jugar ajedrez
+vehiculo : honda civic
