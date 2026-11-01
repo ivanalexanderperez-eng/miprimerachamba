@@ -7,3 +7,7 @@ aunque el fracaso sigue siendo una tarde gris , hoy puedo ver que me gane cada c
 lejos del bullicio pero cerca del vicio siendo un pésimo abogado estuve perdiendo el juicio
 
 <<<Realizando cambios en el formato , se borro el hoobit y el tipo de vehículo>>
+
+contexto :juana la alpaca es una alpaca viajera
+
+juana la alpaca le gusta ir mucho ala playa
